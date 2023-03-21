@@ -1,0 +1,12 @@
+#header {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1%;
+}
+#quote {
+    font-family: cursive, Courier, monospace;
+}
+#attributions {
+    margin-top: 20%;
+    margin-left: 10%;
+}
